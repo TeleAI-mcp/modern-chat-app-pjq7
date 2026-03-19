@@ -1,2 +1,3 @@
-# modern-chat-app-pjq7
+# Modern Chat App Pjq7
+
 A repository to test GitHub automation for issue management.
